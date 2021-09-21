@@ -1,5 +1,4 @@
 # Financepeer
-A simple regitsration and login 
 
 ## DATABASE AND TABLES DETAILS
 1. DATABASE - financepeer

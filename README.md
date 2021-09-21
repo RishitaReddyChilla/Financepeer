@@ -16,4 +16,5 @@ A simple regitsration and login
                   b. id: int(100)
                   c. title: varchar(1000)
                   d. body: varchar(1000)
+ ##  Create a new folder in htdocs folder of xampp folder in your system. Download all the files from this repo and store these in this newly created folder.
    
